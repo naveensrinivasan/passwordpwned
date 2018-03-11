@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "aMv1Gdh7pzCUMwTJVuXVMzABTSE=",
+			"path": "github.com/mattevans/pwned-passwords",
+			"revision": "9856bca5a1c5ade378514ac65f50c163c2038521",
+			"revisionTime": "2018-02-27T18:20:18Z"
+		}
+	],
+	"rootPath": "github.com/naveensrinivasan/passwordpwned"
+}

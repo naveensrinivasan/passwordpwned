@@ -1,4 +1,4 @@
-#README.MD
+# README
 
 This repo is for checking passwords that have been pwned using https://api.pwnedpasswords.com and 
 `github.com/mattevans/pwned-passwords`
